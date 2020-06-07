@@ -3,12 +3,12 @@
   <packageSources>
     <clear />
     <add key="nuget.org" value="https://api.nuget.org/v3/index.json" protocolVersion="3" />
-    <add key="testazuredevops" value="https://pkgs.dev.azure.com/HuyTQ10/huytq10/_packaging/testazuredevops/nuget/v3/index.json" />
+    <add key="PartsUnlimitedShared1" value="https://pkgs.dev.azure.com/HuyTQ10/PartsUnlimited/_packaging/PartsUnlimitedShared1/nuget/v3/index.json" />
   </packageSources>
   <packageSourceCredentials>
-    <testazuredevops>
+    <PartsUnlimitedShared1>
       <add key="Username" value="huytq10" />
       <add key="ClearTextPassword" value="xrpl5o4r4kn6n6jxs54jd2ju6rqjn5hpe6uvmaslf24l4jc2khsq" />
-    </testazuredevops>
+    </PartsUnlimitedShared1>
   </packageSourceCredentials>
 </configuration>
