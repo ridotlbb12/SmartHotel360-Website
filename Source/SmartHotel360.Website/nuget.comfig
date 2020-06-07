@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <packageSources>
+    <clear />
+    <add key="nuget.org" value="https://api.nuget.org/v3/index.json" protocolVersion="3" />
+    <add key="HuyTQ10" value="https://pkgs.dev.azure.com/HuyTQ10/_packaging/HuyTQ10/nuget/v3/index.json" />
+  </packageSources>
+  <packageSourceCredentials>
+    <HuyTQ10>
+      <add key="Username" value="huytq10" />
+      <add key="ClearTextPassword" value="xrpl5o4r4kn6n6jxs54jd2ju6rqjn5hpe6uvmaslf24l4jc2khsq" />
+    </HuyTQ10>
+  </packageSourceCredentials>
+</configuration>
